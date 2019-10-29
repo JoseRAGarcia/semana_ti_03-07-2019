@@ -1,0 +1,14 @@
+body{
+	background-color: #474a51;
+	color: #ffffff;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.container{
+	margin: 0 auto;
+	height: 168px;
+	width: 1000px;	
+}
+.header{
+	background-image: url(../img/textura.gif);
+	position: relative;
+}

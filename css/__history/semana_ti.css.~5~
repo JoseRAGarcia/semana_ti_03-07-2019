@@ -1,0 +1,56 @@
+body{
+	background-color: #474a51;
+	color: #ffffff;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.container{
+	margin: 0 auto;
+	height: 168px;
+	width: 1000px;	
+}
+header{
+	background-image: url(../img/textura.gif);
+	position: relative;
+}
+h1 img{
+	background-repeat: no-repeat;
+	height: 168px;
+	width: 300px;
+}
+.menu-opcoes{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+.menu-opcoes ul{
+	background-color: blue;
+	padding: 10px 30px;
+}
+.menu-opcoes li{
+	padding: 0px 10px;
+	display: inline;
+	margin-left: 3.3px;
+}
+.menu-opcoes a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.busca{
+	padding: 10px;
+	float: left;
+}
+.banner{
+	position: relative;
+	padding-top: 10px;
+}
+.banner img{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.rodape{
+	background-image: url(../img/textura.gif);
+	clear: both;
+	position: relative;
+	height: 100px;
+}
